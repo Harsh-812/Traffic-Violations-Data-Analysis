@@ -13,16 +13,17 @@ This project performs an analysis of traffic violation data to uncover trends an
 <hr>
 
 ### About the Dataset
-The dataset is sourced from Data.gov. It contains traffic violation information from all electronic traffic violations issued in the Montgomery County of Maryland. [Traffic Violations](https://catalog.data.gov/dataset/ah-provisional-cancer-death-counts-by-month-and-year-2020-2021-ab4a5](https://catalog.data.gov/dataset/traffic-violations)
+The dataset is sourced from Data.gov. It contains traffic violation information from all electronic traffic violations issued in the Montgomery County of Maryland. 
+[Traffic Violations](https://catalog.data.gov/dataset/traffic-violations)
 
 <hr>
 
 ### Content
-Data PreProcessing: Steps to clean the data and prepare it for analysis.
-Distribution of Enforcement Actions: Visualize different enforcement actions taken during traffic stops.
-Enforcement Action by Violation Category: Analyze the types of violations and corresponding enforcement actions.
-Reasons for Traffic Stops: Overview of common reasons for initiating traffic stops.
-Top Violation Categories: Explore the most frequent categories of traffic violations.
-Top Violations by Gender: Breakdown of traffic violations by gender.
-Top Locations for Traffic Violations: Identification of hotspots for traffic violations.
-Time Series Analysis: Deep dive into the trends of traffic violations over time, including yearly averages and seasonal patterns.
+* Data PreProcessing: Steps to clean the data and prepare it for analysis.
+* Distribution of Enforcement Actions: Visualize different enforcement actions taken during traffic stops.
+* Enforcement Action by Violation Category: Analyze the types of violations and corresponding enforcement actions.
+* Reasons for Traffic Stops: Overview of common reasons for initiating traffic stops.
+* Top Violation Categories: Explore the most frequent categories of traffic violations.
+* Top Violations by Gender: Breakdown of traffic violations by gender.
+* Top Locations for Traffic Violations: Identification of hotspots for traffic violations.
+* Time Series Analysis: Deep dive into the trends of traffic violations over time, including yearly averages and seasonal patterns.
