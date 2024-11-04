@@ -27,3 +27,17 @@ The dataset is sourced from Data.gov. It contains traffic violation information 
 * Top Violations by Gender: Breakdown of traffic violations by gender.
 * Top Locations for Traffic Violations: Identification of hotspots for traffic violations.
 * Time Series Analysis: Deep dive into the trends of traffic violations over time, including yearly averages and seasonal patterns.
+<hr>
+
+### Data Visualization Preview
+
+<img width="924" alt="Screenshot 2024-11-04 at 5 36 16 PM" src="https://github.com/user-attachments/assets/078f27f0-ba44-4c05-b0a4-03e8e7011327">
+
+<img width="924" alt="Screenshot 2024-11-04 at 5 36 27 PM" src="https://github.com/user-attachments/assets/ccca42e3-e89b-4071-a146-84de877c7c84">
+
+<img width="924" alt="Screenshot 2024-11-04 at 5 36 37 PM" src="https://github.com/user-attachments/assets/ffb8c97a-b18a-49fa-b419-f63066dfecd3">
+
+<img width="927" alt="Screenshot 2024-11-04 at 5 36 54 PM" src="https://github.com/user-attachments/assets/cc8000da-fe42-4a91-ac69-125c69ee39b0">
+
+
+
